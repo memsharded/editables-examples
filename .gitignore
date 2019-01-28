@@ -1,0 +1,9 @@
+build
+Debug
+Release
+.vs
+x64
+conanbuildinfo*
+conaninfo.txt
+graph_info.json
+*vcxproj*

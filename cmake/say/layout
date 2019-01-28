@@ -1,0 +1,5 @@
+[includedirs]
+src
+
+[libdirs]
+build/lib
