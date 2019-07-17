@@ -2,4 +2,4 @@
 src
 
 [libdirs]
-build/lib
+build/{settings.build_type}
